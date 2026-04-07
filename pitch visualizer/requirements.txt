@@ -1,0 +1,6 @@
+flask
+nltk
+torch
+diffusers
+transformers
+accelerate
